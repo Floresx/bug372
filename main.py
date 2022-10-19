@@ -3,6 +3,5 @@
 # OUTPUT DEL SCRIPT:
 
 
-print("Hola new pythonista hay un tremendo error en esta línea\n
-"Agrega unas benditas \" al final de la primer linea.\n"
+print("Hola new pythonista hay un tremendo error en esta línea\n""Agrega unas benditas \nal final de la primer linea.\n"
 "El profe me hace los mandados. SOY UN CRACK EN GIT (っ▀¯▀)つ.")
